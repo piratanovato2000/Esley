@@ -1,0 +1,23 @@
+.ocultar{
+    display: none !important;
+}
+.iniciar{
+    text-align: center;
+    margin-bottom: 0;
+    color: blue;
+
+}
+
+body{
+    text-align: center;
+    background: linear-gradient(135deg,rgb(0, 0, 0),rgb(15, 52, 90));
+    font-size: 18px;
+    line-height: 1.5;
+}
+h1{
+    color: rgb(75, 228, 236);
+}
+html, body {
+    margin: 0;
+    height: 100%;
+}
